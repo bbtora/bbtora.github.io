@@ -55,6 +55,6 @@ body {
     box-shadow: none;
 }
 
-#mc_embed_signup {
+.container .col #mc_embed_signup {
     text-align: center;
 }

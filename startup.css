@@ -54,3 +54,7 @@ body {
 .clear #active:active {
     box-shadow: none;
 }
+
+#mc_embed_signup {
+    text-align: center;
+}
